@@ -34,9 +34,7 @@ g++ calculator.cpp -o calculator
 ## 📂 Project Structure
 calculator/
  ├── calculator.cpp   # Main C++ source code
- 
  ├── Jenkinsfile      # CI/CD pipeline configuration
- 
  └── README.md        # Documentation
 
 ## 📈 CI/CD
